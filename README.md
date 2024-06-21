@@ -38,7 +38,6 @@ I started out first by taking a critical look at the design images where I figur
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
